@@ -1,2 +1,2 @@
 # hello-world
-entering the world of collaboration
+my first step to enter the fascinating world of collaboration
